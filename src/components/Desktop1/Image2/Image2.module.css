@@ -1,0 +1,19 @@
+.root {
+  position: absolute;
+  left: 236px;
+  top: 12px;
+  width: 117px;
+  height: 70px;
+  align-items: flex-start;
+}
+.image2 {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  background-image:/* webpackIgnore: true */ url('assets/image2.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}

@@ -1,0 +1,26 @@
+.root {
+  position: relative;
+  width: 24px;
+  height: 24px;
+  align-items: flex-start;
+}
+.garden_cart {
+  position: absolute;
+  left: 4.1667%;
+  right: 8.3333%;
+  top: 12.5%;
+  bottom: 12.5%;
+  overflow: visible;
+  -webkit-mask-image:/* webpackIgnore: true */ url('assets/garden_cart.svg');
+  mask-image:/* webpackIgnore: true */ url('assets/garden_cart.svg');
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+  -webkit-mask-position: -0.9999998211860657px -2.999999761581421px;
+  mask-position: -0.9999998211860657px -2.999999761581421px;
+  -webkit-mask-size: 24px 24px;
+  mask-size: 24px 24px;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}

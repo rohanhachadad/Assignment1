@@ -1,0 +1,107 @@
+.ourOffer.ourOffer {
+  left: 573px;
+  top: 40px;
+}
+.garden_cart2.garden_cart2 {
+  position: absolute;
+  right: 320px;
+  top: 35px;
+}
+.garden_cart.garden_cart {
+  -webkit-mask-image:/* webpackIgnore: true */ url('assets/garden_cart2.svg');
+  mask-image:/* webpackIgnore: true */ url('assets/garden_cart2.svg');
+}
+.garden_cart {
+  -webkit-mask-image:/* webpackIgnore: true */ url('assets/garden_cart2.svg');
+  mask-image:/* webpackIgnore: true */ url('assets/garden_cart2.svg');
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.person2.person2 {
+  position: absolute;
+  right: 248px;
+  top: 35px;
+}
+.person.person {
+  -webkit-mask-image:/* webpackIgnore: true */ url('assets/person2.svg');
+  mask-image:/* webpackIgnore: true */ url('assets/person2.svg');
+}
+.person {
+  -webkit-mask-image:/* webpackIgnore: true */ url('assets/person2.svg');
+  mask-image:/* webpackIgnore: true */ url('assets/person2.svg');
+}
+.icon2 {
+  width: 100%;
+  height: 100%;
+}
+.search2.search2 {
+  position: absolute;
+  right: 176px;
+  top: 35px;
+}
+.search.search {
+  -webkit-mask-image:/* webpackIgnore: true */ url('assets/search2.svg');
+  mask-image:/* webpackIgnore: true */ url('assets/search2.svg');
+}
+.search {
+  -webkit-mask-image:/* webpackIgnore: true */ url('assets/search2.svg');
+  mask-image:/* webpackIgnore: true */ url('assets/search2.svg');
+}
+.icon3 {
+  width: 100%;
+  height: 100%;
+}
+.root {
+  position: relative;
+  width: 1440px;
+  height: 1024px;
+  align-items: flex-start;
+  background-color: #fff;
+  overflow: hidden;
+}
+.rectangle1 {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 1440px;
+  height: 95px;
+  background-color: #fff;
+}
+.rectangle2 {
+  position: absolute;
+  left: 0;
+  top: 95px;
+  width: 1440px;
+  height: 626px;
+  background-color: #eff0f4;
+}
+.bedroom {
+  color: #000;
+  font-size: 12px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 46.8056%;
+  right: 49.5833%;
+  top: 40px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.kitchenDining {
+  color: #000;
+  font-size: 12px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 53.75%;
+  right: 39.7222%;
+  top: 40px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
